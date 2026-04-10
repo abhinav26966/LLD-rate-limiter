@@ -1,0 +1,16 @@
+# Build output
+out/
+build/
+target/
+*.class
+
+# Generated file list
+sources.txt
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
